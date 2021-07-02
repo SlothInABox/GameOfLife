@@ -1,0 +1,13 @@
+﻿  FCell.cpp
+  FLattice.cpp
+D:\Documents\University\MVP\GameOfLife\GameOfLife\src\FLattice.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\University\MVP\GameOfLife\GameOfLife\src\FLattice.cpp(97,24): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\University\MVP\GameOfLife\GameOfLife\src\FLattice.cpp(110,39): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\University\MVP\GameOfLife\GameOfLife\src\FLattice.cpp(119,39): warning C4018: '<': signed/unsigned mismatch
+  GameOfLife.cpp
+  Generating code
+  0 of 415 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameOfLife.vcxproj -> D:\Documents\University\MVP\GameOfLife\Release\GameOfLife.exe
